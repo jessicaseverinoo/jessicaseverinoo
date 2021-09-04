@@ -12,7 +12,7 @@
 
 ## :woman_technologist: IDE
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 ## :zap: Database
@@ -119,3 +119,7 @@
 <a href = "mailto:jessicaa.severinoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jessicaseverino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+<br /><br />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicaseverinoo&theme=tokyonight)
+
+![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaseverinoo)
