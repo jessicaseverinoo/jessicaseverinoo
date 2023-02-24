@@ -72,12 +72,5 @@
 ![](https://img.shields.io/badge/mac%20os-informational?style=flat&logo=apple&logoColor=0b8fe8&color=0A0A0A)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=0b8fe8&color=0A0A0A)
 
-
-## :trophy: Favs
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-
 <br /><br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicaseverinoo&theme=tokyonight)
