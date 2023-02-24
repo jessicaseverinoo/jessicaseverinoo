@@ -8,6 +8,7 @@
 </div>
 
 ## 💻 Code
+![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=C3012F&color=0A0A0A)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=C3012F&color=0A0A0A)
 ![](https://img.shields.io/badge/NGRX-informational?style=flat&logo=reactivex&logoColor=BA2BD2&color=0A0A0A)
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&logoColor=f7df1e&color=0A0A0A)
