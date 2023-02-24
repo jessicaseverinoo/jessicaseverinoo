@@ -1,19 +1,39 @@
 <h2 align="center">Hi there, I'm Jessica <img src="https://github.com/milena-ramiro/milena-ramiro/blob/main/gifs/wave.gif" width="30px"> </h2>
-<h3 align="center"> I'm a Frontend Develop and a book lover :books:</h3>
+<h3 align="center"> I'm a Frontend Develop | Angular | ReactJS | Flutter</h3>
 
-<p>I like to write in JavaScript code and I'm exploring the Backend world. Currently living in <b>Brasil, São Paulo.</b></p>
+<div align="center">
+<h3>Where to find me</h3>
+<p><a href="https://github.com/jessicaseverinoo" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-0A0A0A?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/jessicaseverino/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A0A0A?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+</div>
 
 
-## :rocket: Version
+## 💻 Code
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular&logoColor=C3012F&color=0A0A0A)
+![](https://img.shields.io/badge/NGRX-informational?style=flat&logo=reactivex&logoColor=BA2BD2&color=0A0A0A)
+![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&logoColor=f7df1e&color=0A0A0A)
+![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=881AFC&color=0A0A0A)
+![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=2E79C7&color=0A0A0A)
+![](https://img.shields.io/badge/SASS-informational?style=flat&logo=sass&logoColor=fb5bc5&color=0A0A0A)
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=f7df1e&color=0A0A0A)
+![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=e34f26&color=0A0A0A)
+![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=0f56fc&color=0A0A0A)
+![](https://img.shields.io/badge/jQuery-informational?style=flat&logo=jQuery&logoColor=0769AD&color=0A0A0A)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+## 🗃 Version control
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=F05034&color=0A0A0A)
+![](https://img.shields.io/badge/Github-informational?style=flat&logo=github&logoColor=fffffff&color=0A0A0A)
+![](https://img.shields.io/badge/GitLab-informational?style=flat&logo=gitlab&logoColor=FCA325&color=0A0A0A)
 
-## :woman_technologist: IDE
+## 🛠 Tools
+![](https://img.shields.io/badge/WebStorm-informational?style=flat&logo=webstorm&logoColor=26C1E5&color=0A0A0A)
+![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=0088ff&color=0A0A0A)
+![](https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=FB6C35&color=0A0A0A)
+![](https://img.shields.io/badge/Insomnia-informational?style=flat&logo=insomnia&logoColor=7a0ff7&color=0A0A0A)
+![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=00ffbf&color=0A0A0A)
+![](https://img.shields.io/badge/Jira-informational?style=flat&logo=jira&logoColor=0A5DF4&color=0A0A0A)
+![](https://img.shields.io/badge/Trello-informational?style=flat&logo=trello&logoColor=0b8fe8&color=0A0A0A)
 
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 
 ## :zap: Database
 
@@ -35,14 +55,7 @@
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![Strapi](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
-
-![GrathQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)
-
+![ReactRouter](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=whi
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,14 +81,6 @@
 ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-## :globe_with_meridians: Web Browsers
-
-![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-![Safari](https://img.shields.io/badge/Safari-FF1B2D?style=for-the-badge&logo=Safari&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
-![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
-
 ## :monocle_face: Linters
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
@@ -96,8 +101,6 @@
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Challenge
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ## :trophy: Favs 
 
@@ -105,21 +108,6 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
-<br /><br />
-
-## :memo: Blog
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-## 🛸 Contact
-
-<h4> If you have same interestings or some questions, contact me, let´s talk :stuck_out_tongue_winking_eye: </h4>
-
-<a href="https://instagram.com/_jessica.severino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://discord.gg/jessica.severino#8646" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:jessicaa.severinoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jessicaseverino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br /><br />
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jessicaseverinoo&theme=tokyonight)
-
-![github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaseverinoo)
